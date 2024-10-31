@@ -1,10 +1,10 @@
-#**Project Title : Resume Screening**
+# **Project Title : Resume Screening**
 
-##**Problem Statement:**
+## **Problem Statement:**
 
 In the competitive job market, companies are inundated with a massive influx of resumes for each job opening, necessitating an efficient and effective method for talent acquisition. The challenge is particularly pronounced for labor-intensive businesses experiencing growth and high attrition rates. The IT industry, amid rapid expansion, faces a shortage of skilled professionals. To address the daunting task of selecting the most suitable candidates from a plethora of resumes, companies turn to machine learning algorithms for automated Resume Screening. Large organizations, constrained by time, seek innovative solutions to sift through resumes swiftly, leveraging technology to identify and prioritize candidates with the requisite technical skills and business domain expertise. This process aims to streamline the hiring workflow, ensuring that companies secure the right talent for their projects and customer needs.
 
-##**Conclusion:**
+## **Conclusion:**
 
 1. **MultinomialNB:**
    - **Accuracy:** 96%
